@@ -140,12 +140,9 @@ function loadFeedData(sourceUrl) {
 // 生成摘要函数
 async function generateSummary(title, content) {
   try {
-    // 确保 content 不为空
     const contentToClean = content || "";
-    // 清理内容 - 移除HTML标签
     const cleanContent = contentToClean.replace(/<[^>]*>?/gm, "");
 
-    // 准备提示词
     const prompt = `
 你是一个专业的内容摘要生成器。请根据以下文章标题和内容，生成一个简洁、准确的中文摘要。
 摘要应该：
@@ -158,24 +155,56 @@ async function generateSummary(title, content) {
 文章标题：${title}
 
 文章内容：
-${cleanContent.slice(0, 5000)} // 限制内容长度以避免超出token限制
+${cleanContent.slice(0, 5000)}
 `;
 
-    const completion = await openai.chat.completions.create({
-      model: OPENAI_MODEL_NAME,
-      messages: [
-        {
-          role: "user",
-          content: prompt
-        }
-      ],
-      temperature: 0.3,
-      max_tokens: 500,
+    const response = await fetch(`${OPENAI_API_BASE}/chat/completions`, {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${OPENAI_API_KEY}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        model: OPENAI_MODEL_NAME,
+        messages: [
+          {
+            role: "user",
+            content: prompt,
+          }
+        ],
+        temperature: 0.3,
+        max_tokens: 500,
+      }),
     });
 
-    return completion.choices[0].message.content?.trim() || "无法生成摘要。";
+    const text = await response.text();
+
+    if (!response.ok) {
+      console.error("LLM HTTP错误:", response.status, response.statusText);
+      console.error("LLM响应内容:", text);
+      return "无法生成摘要。AI 接口调用失败。";
+    }
+
+    let data;
+    try {
+      data = JSON.parse(text);
+    } catch (e) {
+      console.error("LLM返回的不是合法JSON:", text);
+      return "无法生成摘要。AI 返回格式错误。";
+    }
+
+    const summary = data?.choices?.[0]?.message?.content?.trim();
+    if (!summary) {
+      console.error("LLM返回缺少summary内容:", JSON.stringify(data, null, 2));
+      return "无法生成摘要。AI 返回内容为空。";
+    }
+
+    return summary;
   } catch (error) {
-    console.error("生成摘要时出错:", error);
+    console.error("生成摘要时出错:");
+    console.error(error);
+    console.error("message:", error?.message);
+    console.error("stack:", error?.stack);
     return "无法生成摘要。AI 模型暂时不可用。";
   }
 }
