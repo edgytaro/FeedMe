@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "tt-a1i/archify",
+      "link": "https://github.com/tt-a1i/archify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1\" referrerpolicy=\"no-referrer\"><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.<br><br>Language: JavaScript<br>Stars: 50709<br>Forks: 3300",
+      "contentSnippet": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\nLanguage: JavaScript\nStars: 50709\nForks: 3300",
+      "creator": "tt-a1i",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "magnitudedev/magnitude",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/93c7879a123194fcb9ea263472259df367c4df66d66a82c765e9da0dee241920/magnitudedev/magnitude\" referrerpolicy=\"no-referrer\"><br>Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.<br><br>Language: TypeScript<br>Stars: 3646<br>Forks: 258",
+      "contentSnippet": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.\nLanguage: TypeScript\nStars: 3646\nForks: 258",
+      "creator": "magnitudedev",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/51e74274937d375149e531e5d5128c105e3e7195dd9ec19a5f61f3e4589020db/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 32386<br>Forks: 5291",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 32386\nForks: 5291",
+      "creator": "THU-MAIC",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Gitlawb/openclaude",
+      "link": "https://github.com/Gitlawb/openclaude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/198a3c3852e9211eafe6d1c80d486caabf2040f74245f05f9c90a2fc7fd4c15d/Gitlawb/openclaude\" referrerpolicy=\"no-referrer\"><br>runs anywhere. uses anything<br><br>Language: TypeScript<br>Stars: 32832<br>Forks: 9061",
+      "contentSnippet": "runs anywhere. uses anything\nLanguage: TypeScript\nStars: 32832\nForks: 9061",
+      "creator": "Gitlawb",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "pollen-robotics/microduck_rl",
+      "link": "https://github.com/pollen-robotics/microduck_rl",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9f1d360fb5c734e3e7eb5a59e89cb9b29c78261e4f7914f275b581d69d506572/pollen-robotics/microduck_rl\" referrerpolicy=\"no-referrer\"><br>RL training environments for Microduck (mjlab)<br><br>Language: Python<br>Stars: 1815<br>Forks: 363",
+      "contentSnippet": "RL training environments for Microduck (mjlab)\nLanguage: Python\nStars: 1815\nForks: 363",
+      "creator": "pollen-robotics",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "google-research/timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/311e3c5eaca7820f404d365d5c3e58f3a54e97eda790684e77e9a254718d1fba/google-research/timesfm\" referrerpolicy=\"no-referrer\"><br>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.<br><br>Language: Python<br>Stars: 31629<br>Forks: 3028",
+      "contentSnippet": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nLanguage: Python\nStars: 31629\nForks: 3028",
+      "creator": "google-research",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3d784dba90b0d62672ef919d7a2d9cbc2f86e2af2eeb2aa6bb341fb4dcf19fd8/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🧠 Train a 64M-parameter LLM from scratch in just 2h!<br><br>Language: Python<br>Stars: 59129<br>Forks: 7674",
+      "contentSnippet": "🧠 Train a 64M-parameter LLM from scratch in just 2h!\nLanguage: Python\nStars: 59129\nForks: 7674",
+      "creator": "jingyaogong",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "fmtlib/fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6fc332dd1947ed2595715e263f3da70cdc6499364cdb38819caba0fff3a3be87/fmtlib/fmt\" referrerpolicy=\"no-referrer\"><br>A modern formatting library<br><br>Language: C++<br>Stars: 25620<br>Forks: 3045",
+      "contentSnippet": "A modern formatting library\nLanguage: C++\nStars: 25620\nForks: 3045",
+      "creator": "fmtlib",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 19797<br>Forks: 2510",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 19797\nForks: 2510",
+      "creator": "debpalash",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "handsomestWei/patent-disclosure-skill",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c8396c8700da96ca9b69acaf38e7c5d01fc2f57b5dd9a16bccb0b04fd4270b38/handsomestWei/patent-disclosure-skill\" referrerpolicy=\"no-referrer\"><br>中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。<br><br>Language: Python<br>Stars: 7759<br>Forks: 840",
+      "contentSnippet": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\nLanguage: Python\nStars: 7759\nForks: 840",
+      "creator": "handsomestWei",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/73b6b7677b6cc278320263f8810d6cecc05cc4f472455c9c640d19ff1f243750/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 43271<br>Forks: 3942",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 43271\nForks: 3942",
+      "creator": "K-Dense-AI",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "tailscale/tailcat",
+      "link": "https://github.com/tailscale/tailcat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23555b569c15aae051d5dfaabd55d3ca5e02873555e79384c3306a7341bbaa7c/tailscale/tailcat\" referrerpolicy=\"no-referrer\"><br>like netcat, but over Tailscale's data plane, without Tailscale's control plane<br><br>Language: Go<br>Stars: 6528<br>Forks: 248",
+      "contentSnippet": "like netcat, but over Tailscale's data plane, without Tailscale's control plane\nLanguage: Go\nStars: 6528\nForks: 248",
+      "creator": "tailscale",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "colinhacks/zod",
+      "link": "https://github.com/colinhacks/zod",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6441c0767368227d6c3af2db635d0f2297162943797548a5585588b79a844b53/colinhacks/zod\" referrerpolicy=\"no-referrer\"><br>TypeScript-first schema validation with static type inference<br><br>Language: TypeScript<br>Stars: 43859<br>Forks: 2177",
+      "contentSnippet": "TypeScript-first schema validation with static type inference\nLanguage: TypeScript\nStars: 43859\nForks: 2177",
+      "creator": "colinhacks",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8f149385f89619bf26cbe1e142161bdb572d2bf8a76f89073439bc02e54afc41/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 51156<br>Forks: 3589",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 51156\nForks: 3589",
+      "creator": "ChromeDevTools",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6e65cdf6fd05fc2676f4919825566b7bb276af2b47aa5349846d2119f1a62647/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 251226<br>Forks: 37767",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 251226\nForks: 37767",
+      "creator": "affaan-m",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Lakr233/vphone-cli",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d03e179fcfa32ba6d89d48287befccb5955de42937c97093b37c1f268640420f/Lakr233/vphone-cli\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Swift<br>Stars: 10950<br>Forks: 1398",
+      "contentSnippet": "Language: Swift\nStars: 10950\nForks: 1398",
+      "creator": "Lakr233",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "every-app/open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/67a3c223bb75349131b6b8032cc60bc9f398e26bba3d578b67e7754c9aaa93e7/every-app/open-seo\" referrerpolicy=\"no-referrer\"><br>Open source alternative to Semrush and Ahrefs<br><br>Language: TypeScript<br>Stars: 17485<br>Forks: 2205",
+      "contentSnippet": "Open source alternative to Semrush and Ahrefs\nLanguage: TypeScript\nStars: 17485\nForks: 2205",
+      "creator": "every-app",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 129264<br>Forks: 6925",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 129264\nForks: 6925",
+      "creator": "DietrichGebert",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "majd/ipatool",
+      "link": "https://github.com/majd/ipatool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7dace004a673e06f041062fddbc978010e5f823eca5b007359b9e4c3bae80e7d/majd/ipatool\" referrerpolicy=\"no-referrer\"><br>Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.<br><br>Language: Go<br>Stars: 10957<br>Forks: 914",
+      "contentSnippet": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.\nLanguage: Go\nStars: 10957\nForks: 914",
+      "creator": "majd",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "link": "https://github.com/punkpeye/awesome-mcp-servers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2a3ebf42168c08c45adce1aed16b60984b6118996914d5bce0e4cc2ed7df5e03/punkpeye/awesome-mcp-servers\" referrerpolicy=\"no-referrer\"><br>A collection of MCP servers.<br><br>Language: Unknown<br>Stars: 94471<br>Forks: 15764",
+      "contentSnippet": "A collection of MCP servers.\nLanguage: Unknown\nStars: 94471\nForks: 15764",
+      "creator": "punkpeye",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Imbad0202/academic-research-skills",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/13f36aad626d0e89093ad6ba7b76cbd17c77c72ef72b480741f74699a0c98d46/Imbad0202/academic-research-skills\" referrerpolicy=\"no-referrer\"><br>Academic Research Skills for Claude Code: research → write → review → revise → finalize<br><br>Language: Python<br>Stars: 46565<br>Forks: 3650",
+      "contentSnippet": "Academic Research Skills for Claude Code: research → write → review → revise → finalize\nLanguage: Python\nStars: 46565\nForks: 3650",
+      "creator": "Imbad0202",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    }
+  ],
+  "lastUpdated": "2026-09-06T22:47:44.067Z"
+}

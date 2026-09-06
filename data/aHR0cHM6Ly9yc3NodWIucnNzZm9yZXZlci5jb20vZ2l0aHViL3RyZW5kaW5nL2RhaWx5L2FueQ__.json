@@ -1,0 +1,189 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6e65cdf6fd05fc2676f4919825566b7bb276af2b47aa5349846d2119f1a62647/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 251226<br>Forks: 37767",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 251226\nForks: 37767",
+      "creator": "affaan-m",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3aa616c3232fc241555a91afd6126abffb5fc4b3baa59b37f43ec0ab0900f764/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 254444<br>Forks: 21460",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 254444\nForks: 21460",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f059eaf0f0b89489f1a45ccaa1c784b59474f333e58aeb1f891ca9c97d8d52a3/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 32291<br>Forks: 2074",
+      "contentSnippet": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 32291\nForks: 2074",
+      "creator": "cathrynlavery",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ab65f391d721f75638588cd00a114d3e8be01b9a318f016b42acf448aded7231/NousResearch/hermes-agent\" referrerpolicy=\"no-referrer\"><br>The agent that grows with you<br><br>Language: Python<br>Stars: 242514<br>Forks: 49871",
+      "contentSnippet": "The agent that grows with you\nLanguage: Python\nStars: 242514\nForks: 49871",
+      "creator": "NousResearch",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "openai/skills",
+      "link": "https://github.com/openai/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6802b2caff997135352f614185620ce318a377906c876049c6fbd6ad032d116c/openai/skills\" referrerpolicy=\"no-referrer\"><br>Skills Catalog for Codex<br><br>Language: Python<br>Stars: 25601<br>Forks: 1729",
+      "contentSnippet": "Skills Catalog for Codex\nLanguage: Python\nStars: 25601\nForks: 1729",
+      "creator": "openai",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277\" referrerpolicy=\"no-referrer\"><br>The open source coding agent.<br><br>Language: TypeScript<br>Stars: 205221<br>Forks: 26770",
+      "contentSnippet": "The open source coding agent.\nLanguage: TypeScript\nStars: 205221\nForks: 26770",
+      "creator": "anomalyco",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/38559fbe53cb8b32b0033ee3dc6f53204bfb6db5e317a59420178bf54bfd6bea/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 44179<br>Forks: 3678",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 44179\nForks: 3678",
+      "creator": "blader",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "llvm/llvm-project",
+      "link": "https://github.com/llvm/llvm-project",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/377b11b38b3e274275e5120d9e0c2e3137e8db15047b86b6ad202f3ade7e8f40/llvm/llvm-project\" referrerpolicy=\"no-referrer\"><br>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.<br><br>Language: LLVM<br>Stars: 40202<br>Forks: 18557",
+      "contentSnippet": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.\nLanguage: LLVM\nStars: 40202\nForks: 18557",
+      "creator": "llvm",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 129264<br>Forks: 6925",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 129264\nForks: 6925",
+      "creator": "DietrichGebert",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated<br><br>Language: TypeScript<br>Stars: 70966<br>Forks: 8436",
+      "contentSnippet": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\nLanguage: TypeScript\nStars: 70966\nForks: 8436",
+      "creator": "ruvnet",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "magnitudedev/magnitude",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/93c7879a123194fcb9ea263472259df367c4df66d66a82c765e9da0dee241920/magnitudedev/magnitude\" referrerpolicy=\"no-referrer\"><br>Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.<br><br>Language: TypeScript<br>Stars: 3646<br>Forks: 258",
+      "contentSnippet": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.\nLanguage: TypeScript\nStars: 3646\nForks: 258",
+      "creator": "magnitudedev",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "BraveOPotato/FckSignups",
+      "link": "https://github.com/BraveOPotato/FckSignups",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/eba2d8fdaa9869cf102d9e4c045c32845ae467cc604898e45b1f02efd82a9557/BraveOPotato/FckSignups\" referrerpolicy=\"no-referrer\"><br>A list of tools that are open-source, in-browser, and require no-signups!<br><br>Language: TypeScript<br>Stars: 3285<br>Forks: 209",
+      "contentSnippet": "A list of tools that are open-source, in-browser, and require no-signups!\nLanguage: TypeScript\nStars: 3285\nForks: 209",
+      "creator": "BraveOPotato",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "coreyhaines31/marketingskills",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bb75231c1171619cbe9ad085538a0e24065728c38d977d5b7baca9304e84b92c/coreyhaines31/marketingskills\" referrerpolicy=\"no-referrer\"><br>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.<br><br>Language: JavaScript<br>Stars: 47478<br>Forks: 7384",
+      "contentSnippet": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.\nLanguage: JavaScript\nStars: 47478\nForks: 7384",
+      "creator": "coreyhaines31",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "aipoch/open-science",
+      "link": "https://github.com/aipoch/open-science",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1b39f27360d9f7f92e64f4bee26cadd583357597b9219a7098d0055711b74b18/aipoch/open-science\" referrerpolicy=\"no-referrer\"><br>Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.<br><br>Language: TypeScript<br>Stars: 3830<br>Forks: 238",
+      "contentSnippet": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.\nLanguage: TypeScript\nStars: 3830\nForks: 238",
+      "creator": "aipoch",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "OpenWhispr/openwhispr",
+      "link": "https://github.com/OpenWhispr/openwhispr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1004647857/4bc04d99-18c9-4667-b11f-9cd497d2bc63\" referrerpolicy=\"no-referrer\"><br>Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.<br><br>Language: JavaScript<br>Stars: 7306<br>Forks: 929",
+      "contentSnippet": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.\nLanguage: JavaScript\nStars: 7306\nForks: 929",
+      "creator": "OpenWhispr",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "humanlayer/skills",
+      "link": "https://github.com/humanlayer/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2fef855de00346db2cbbce9a6c722b55033608260e7aa52329d98391c3763ce6/humanlayer/skills\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 3109<br>Forks: 90",
+      "contentSnippet": "Language: TypeScript\nStars: 3109\nForks: 90",
+      "creator": "humanlayer",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "The-Swarm-Corporation/AutoHedge",
+      "link": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6a0293689323f4a998a9cc445d6d0c0b47b5ed629e5809f19c7f74cddd913739/The-Swarm-Corporation/AutoHedge\" referrerpolicy=\"no-referrer\"><br>Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.<br><br>Language: Python<br>Stars: 4678<br>Forks: 773",
+      "contentSnippet": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.\nLanguage: Python\nStars: 4678\nForks: 773",
+      "creator": "The-Swarm-Corporation",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Stremio/stremio-web",
+      "link": "https://github.com/Stremio/stremio-web",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/372418f1e8e8f7540cdb58bbfbce7ac71ccf6eb34acd8860ae4edc775b359830/Stremio/stremio-web\" referrerpolicy=\"no-referrer\"><br>Stremio - Freedom to Stream<br><br>Language: JavaScript<br>Stars: 13453<br>Forks: 1544",
+      "contentSnippet": "Stremio - Freedom to Stream\nLanguage: JavaScript\nStars: 13453\nForks: 1544",
+      "creator": "Stremio",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    }
+  ],
+  "lastUpdated": "2026-09-06T22:47:41.175Z"
+}
