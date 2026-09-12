@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/488d9ebb35465136c8ea7f1ad33807746facd7fe85acc901571003d6ae7bfbfa/ayghri/i-have-adhd\" referrerpolicy=\"no-referrer\"><br>A skill to stop your coding agent from burying the answer. ADHD-friendly output.<br><br>Language: Python<br>Stars: 43386<br>Forks: 2467",
+      "contentSnippet": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.\nLanguage: Python\nStars: 43386\nForks: 2467",
+      "creator": "ayghri",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a8b149f5799bef331183a905c46415f104165c3932053cf1ff739666f8dc25c7/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 257074<br>Forks: 38463",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 257074\nForks: 38463",
+      "creator": "affaan-m",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "openai/plugins",
+      "link": "https://github.com/openai/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f61b9239c8c03b9c0b7e6cc544836085ccbc850c7f69a5497ed19b71dddf0ec8/openai/plugins\" referrerpolicy=\"no-referrer\"><br>OpenAI Plugins<br><br>Language: JavaScript<br>Stars: 6533<br>Forks: 861",
+      "contentSnippet": "OpenAI Plugins\nLanguage: JavaScript\nStars: 6533\nForks: 861",
+      "creator": "openai",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 136584<br>Forks: 7323",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 136584\nForks: 7323",
+      "creator": "DietrichGebert",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0ed3b9944cd0a5d635dd9772ab575bdd9113ff34406e19265a8f6c22efc3cad4/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 22354<br>Forks: 1609",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 22354\nForks: 1609",
+      "creator": "mksglu",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/05e8e94a2c3ffa56d91040c170842269253bea4befda7286e3e40a83c4b3547d/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 29748<br>Forks: 5999",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 29748\nForks: 5999",
+      "creator": "bilawalsidhu",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "tt-a1i/archify",
+      "link": "https://github.com/tt-a1i/archify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1\" referrerpolicy=\"no-referrer\"><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.<br><br>Language: JavaScript<br>Stars: 59599<br>Forks: 3901",
+      "contentSnippet": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\nLanguage: JavaScript\nStars: 59599\nForks: 3901",
+      "creator": "tt-a1i",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "openai/skills",
+      "link": "https://github.com/openai/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e5500fa1bb01902a7491f8ed56007c62b9ed4582e991302b331933f9fd27ddfe/openai/skills\" referrerpolicy=\"no-referrer\"><br>Skills Catalog for Codex<br><br>Language: Python<br>Stars: 27009<br>Forks: 1806",
+      "contentSnippet": "Skills Catalog for Codex\nLanguage: Python\nStars: 27009\nForks: 1806",
+      "creator": "openai",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c8e9a0435ce1b30f8b34ba23538fe2b4793e450aad157339ecb1f3d811135baf/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 49206<br>Forks: 4491",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 49206\nForks: 4491",
+      "creator": "heygen-com",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "humanlayer/skills",
+      "link": "https://github.com/humanlayer/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ffe3c8b5ca8b59f595606370dc0825cff0e44971b958f9b77862576644ba695d/humanlayer/skills\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 3908<br>Forks: 116",
+      "contentSnippet": "Language: TypeScript\nStars: 3908\nForks: 116",
+      "creator": "humanlayer",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0f456d5c91baa55ca57e0dae9d17ddd8945769179bcc045f9b8a4055b6305774/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 38840<br>Forks: 2468",
+      "contentSnippet": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 38840\nForks: 2468",
+      "creator": "cathrynlavery",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0708931ee4c85a617c8bf4288bd7cf94a602676640f8d7ccf87d89635283d8c7/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 47310<br>Forks: 3850",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 47310\nForks: 3850",
+      "creator": "blader",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "link": "https://github.com/microsoft/markitdown",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/905a8e66af13bd8f1891b7b4a643f4cd035b09fea7914d8e73dc912eca683761/microsoft/markitdown\" referrerpolicy=\"no-referrer\"><br>Python tool for converting files and office documents to Markdown.<br><br>Language: Python<br>Stars: 183216<br>Forks: 13470",
+      "contentSnippet": "Python tool for converting files and office documents to Markdown.\nLanguage: Python\nStars: 183216\nForks: 13470",
+      "creator": "microsoft",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1191436734b092e10674ca9d4ce6761fd439a2f5faad244b3b3720c696373265/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 51762<br>Forks: 3636",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 51762\nForks: 3636",
+      "creator": "ChromeDevTools",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0745fee0baec8fc485244a7a3525efd20c198f8667a897bdc7abc1f8f6cc1a0e/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 260452<br>Forks: 21965",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 260452\nForks: 21965",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "coreyhaines31/marketingskills",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9ee7b3d466092eedeb67df50b0324cf203dacb56e2f45df4e252845da0afc77f/coreyhaines31/marketingskills\" referrerpolicy=\"no-referrer\"><br>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.<br><br>Language: JavaScript<br>Stars: 49813<br>Forks: 7567",
+      "contentSnippet": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.\nLanguage: JavaScript\nStars: 49813\nForks: 7567",
+      "creator": "coreyhaines31",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4932875abcb72fead1cb739711e544c159d6db8c4d12982569f26145fea14cb1/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 36175<br>Forks: 5735",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 36175\nForks: 5735",
+      "creator": "THU-MAIC",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/308564439cd9af6bff90f5b10c08484b30c5328d3701adaade7c64f1fbdf1131/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.<br><br>Language: Go<br>Stars: 22654<br>Forks: 3252",
+      "contentSnippet": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\nLanguage: Go\nStars: 22654\nForks: 3252",
+      "creator": "Tencent",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/afd9673807d876bd5e9a8e49bc1c53aaa77ea536a317f1bb7df5ebcd0233c55b/earthtojake/text-to-cad\" referrerpolicy=\"no-referrer\"><br>A library of agent skills for CAD, CAE and CAM<br><br>Language: Python<br>Stars: 15446<br>Forks: 1594",
+      "contentSnippet": "A library of agent skills for CAD, CAE and CAM\nLanguage: Python\nStars: 15446\nForks: 1594",
+      "creator": "earthtojake",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bfdae6455dd10ada64f694dfc4922cfeda01a2c53585429180e6bdb38d12fd27/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 285791<br>Forks: 25570",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 285791\nForks: 25570",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "petergyang/no-ai-slop",
+      "link": "https://github.com/petergyang/no-ai-slop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f464aa072f184eecdaa1844bb05e90de08cf05590d58b128952c331ddf2a814b/petergyang/no-ai-slop\" referrerpolicy=\"no-referrer\"><br>Removes 20+ patterns of AI slop from any piece of writing.<br><br>Language: Python<br>Stars: 8648<br>Forks: 648",
+      "contentSnippet": "Removes 20+ patterns of AI slop from any piece of writing.\nLanguage: Python\nStars: 8648\nForks: 648",
+      "creator": "petergyang",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    }
+  ],
+  "lastUpdated": "2026-09-12T22:54:11.179Z"
+}

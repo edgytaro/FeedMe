@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2d4f7c8cbde77035f33cd4b5e8f6dc21775fd5dcb2facb9cdff1f195a51ad996/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 29745<br>Forks: 5998",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 29745\nForks: 5998",
+      "creator": "bilawalsidhu",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "melgarafael/DeskcommCRM",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1223939135/976719c3-5d23-4dd9-a6b2-915229d2c325\" referrerpolicy=\"no-referrer\"><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.<br><br>Language: TypeScript<br>Stars: 1776<br>Forks: 548",
+      "contentSnippet": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\nLanguage: TypeScript\nStars: 1776\nForks: 548",
+      "creator": "melgarafael",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe\" referrerpolicy=\"no-referrer\"><br>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.<br><br>Language: JavaScript<br>Stars: 65365<br>Forks: 10733",
+      "contentSnippet": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.\nLanguage: JavaScript\nStars: 65365\nForks: 10733",
+      "creator": "asgeirtj",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "nab138/iloader",
+      "link": "https://github.com/nab138/iloader",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4046b1788cd12755c7cef8435daffa21c70dd2126eff9f561d036e5691567f79/nab138/iloader\" referrerpolicy=\"no-referrer\"><br>User friendly sideloader<br><br>Language: TypeScript<br>Stars: 3068<br>Forks: 209",
+      "contentSnippet": "User friendly sideloader\nLanguage: TypeScript\nStars: 3068\nForks: 209",
+      "creator": "nab138",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Flowseal/zapret-discord-youtube",
+      "link": "https://github.com/Flowseal/zapret-discord-youtube",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8061e1417641c58f5c6296933bae3576418da299d174e5f6eedaf400ff1f62de/Flowseal/zapret-discord-youtube\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Batchfile<br>Stars: 33201<br>Forks: 2540",
+      "contentSnippet": "Language: Batchfile\nStars: 33201\nForks: 2540",
+      "creator": "Flowseal",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "jihe520/MathModelAgent",
+      "link": "https://github.com/jihe520/MathModelAgent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b49d141107a7383af6460ba2948d0f629ed0e471f9b5e15268b9070f62ce859e/jihe520/MathModelAgent\" referrerpolicy=\"no-referrer\"><br>🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.<br><br>Language: Python<br>Stars: 5115<br>Forks: 401",
+      "contentSnippet": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.\nLanguage: Python\nStars: 5115\nForks: 401",
+      "creator": "jihe520",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Sonarr/Sonarr",
+      "link": "https://github.com/Sonarr/Sonarr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4593a1d4af4413489f78050f085bcc9ce38dfb4c1da7fd0efd0013c383397d7f/Sonarr/Sonarr\" referrerpolicy=\"no-referrer\"><br>Smart PVR for newsgroup and bittorrent users.<br><br>Language: C#<br>Stars: 15908<br>Forks: 1952",
+      "contentSnippet": "Smart PVR for newsgroup and bittorrent users.\nLanguage: C#\nStars: 15908\nForks: 1952",
+      "creator": "Sonarr",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "alsk1992/CloddsBot",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/73bbc4562a02516c77ea36fe19f507b201906897dfbe6f4518ba52983a772b3e/alsk1992/CloddsBot\" referrerpolicy=\"no-referrer\"><br>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.<br><br>Language: TypeScript<br>Stars: 2478<br>Forks: 310",
+      "contentSnippet": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.\nLanguage: TypeScript\nStars: 2478\nForks: 310",
+      "creator": "alsk1992",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "yuliskov/SmartTube",
+      "link": "https://github.com/yuliskov/SmartTube",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cd0c7102986b9fc04201d9a82a8f1ff9ef12fd788f96348d21bdd762218181b9/yuliskov/SmartTube\" referrerpolicy=\"no-referrer\"><br>Browse media content with your own rules on Android TV<br><br>Language: Java<br>Stars: 33199<br>Forks: 2013",
+      "contentSnippet": "Browse media content with your own rules on Android TV\nLanguage: Java\nStars: 33199\nForks: 2013",
+      "creator": "yuliskov",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1415ba0ce53b44c22c01b99ec62a333b7eba6999d21ee5bb18231965c73988a1/Shubhamsaboo/awesome-llm-apps\" referrerpolicy=\"no-referrer\"><br>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.<br><br>Language: Python<br>Stars: 137599<br>Forks: 20233",
+      "contentSnippet": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.\nLanguage: Python\nStars: 137599\nForks: 20233",
+      "creator": "Shubhamsaboo",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "p1neappleXpress/OpenFlux",
+      "link": "https://github.com/p1neappleXpress/OpenFlux",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3e47e408a7d971f3b2a7e52cb6d34a7eabf147557f866177aa40064b94c6abc4/p1neappleXpress/OpenFlux\" referrerpolicy=\"no-referrer\"><br>Network stack research tool. TCP tunnel with pluggable transports.<br><br>Language: Go<br>Stars: 1389<br>Forks: 103",
+      "contentSnippet": "Network stack research tool. TCP tunnel with pluggable transports.\nLanguage: Go\nStars: 1389\nForks: 103",
+      "creator": "p1neappleXpress",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "armory3d/armorpaint",
+      "link": "https://github.com/armory3d/armorpaint",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ea1d5ef74f08c8676fd83f159c9fdeca1bdcd6b30dec53bd2ee7bb1467d557ca/armory3d/armorpaint\" referrerpolicy=\"no-referrer\"><br>Graphics Creation Tools<br><br>Language: C<br>Stars: 4901<br>Forks: 547",
+      "contentSnippet": "Graphics Creation Tools\nLanguage: C\nStars: 4901\nForks: 547",
+      "creator": "armory3d",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0282dc85b974bcf25bab5311b5b8fe39c68e1c0342f2a08bd0510f96af967adb/SnailSploit/Claude-Red\" referrerpolicy=\"no-referrer\"><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.<br><br>Language: Python<br>Stars: 3568<br>Forks: 549",
+      "contentSnippet": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\nLanguage: Python\nStars: 3568\nForks: 549",
+      "creator": "SnailSploit",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "multimodal-art-projection/YuE",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/51855c41f7fee97c9f23baef9da7ddb7479aef8b97def44d1b64b5bb2c8bc174/multimodal-art-projection/YuE\" referrerpolicy=\"no-referrer\"><br>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.<br><br>Language: Python<br>Stars: 7259<br>Forks: 818",
+      "contentSnippet": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.\nLanguage: Python\nStars: 7259\nForks: 818",
+      "creator": "multimodal-art-projection",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 7208<br>Forks: 255",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 7208\nForks: 255",
+      "creator": "max-sixty",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "vxcontrol/pentagi",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/913030762/c8502908-380f-4897-aaba-87cfa16d67b4\" referrerpolicy=\"no-referrer\"><br>Fully autonomous AI Agents system capable of performing complex penetration testing tasks<br><br>Language: Go<br>Stars: 23409<br>Forks: 3056",
+      "contentSnippet": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks\nLanguage: Go\nStars: 23409\nForks: 3056",
+      "creator": "vxcontrol",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    }
+  ],
+  "lastUpdated": "2026-09-12T22:54:07.443Z"
+}
