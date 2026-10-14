@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 239007<br>Forks: 59474",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 239007\nForks: 59474",
+      "creator": "morluto",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7ecba955c6292fb5590d0ce209c40ff8b7a04cb218c91a245fefb643c1b6b61d/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 36983<br>Forks: 3263",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 36983\nForks: 3263",
+      "creator": "boykopovar",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/65b8b1ce8f0930bd5275cf2cf864cad0a1e54a73161a153854a63aea2c36fe8e/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 291094<br>Forks: 24417",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 291094\nForks: 24417",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a1e37b89a779668758ed0f4dfac02da68084a1261cd7e9741502dcb785ce496e/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 63624<br>Forks: 5706",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 63624\nForks: 5706",
+      "creator": "heygen-com",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "EpicGames/raddebugger",
+      "link": "https://github.com/EpicGames/raddebugger",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ca05145ea32dac8e8f879cc7be097f6b55b3e017052cd5e5a4f1b8aa329a3196/EpicGames/raddebugger\" referrerpolicy=\"no-referrer\"><br>A native, user-mode, multi-process, graphical debugger.<br><br>Language: C<br>Stars: 8530<br>Forks: 415",
+      "contentSnippet": "A native, user-mode, multi-process, graphical debugger.\nLanguage: C\nStars: 8530\nForks: 415",
+      "creator": "EpicGames",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "tester-army/e2e",
+      "link": "https://github.com/tester-army/e2e",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1308631234/358e34a0-4e46-4400-b092-63a397fe9d48\" referrerpolicy=\"no-referrer\"><br>Next generation e2e testing framework for web and mobile apps.<br><br>Language: TypeScript<br>Stars: 10467<br>Forks: 509",
+      "contentSnippet": "Next generation e2e testing framework for web and mobile apps.\nLanguage: TypeScript\nStars: 10467\nForks: 509",
+      "creator": "tester-army",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 100737<br>Forks: 8828",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 100737\nForks: 8828",
+      "creator": "thedotmack",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1792b02eb7f6e38e6a61d91d3c2d7b855c28897380f7e51e89ec5196bcb33615/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 55256<br>Forks: 3494",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 55256\nForks: 3494",
+      "creator": "cathrynlavery",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "twostraws/SwiftUI-Agent-Skill",
+      "link": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2a6e9e2aef9e0b2783c6e9d16e12406e71eaec7bcfc4bd53dd61ec8f50968fec/twostraws/SwiftUI-Agent-Skill\" referrerpolicy=\"no-referrer\"><br>SwiftUI agent skill for Claude Code, Codex, and other AI tools.<br><br>Language: Unknown<br>Stars: 5950<br>Forks: 218",
+      "contentSnippet": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.\nLanguage: Unknown\nStars: 5950\nForks: 218",
+      "creator": "twostraws",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a37086eff2de30124b71e6280ce25b3c8f75476e549d19fdfdcfc1069dc4044c/earthtojake/text-to-cad\" referrerpolicy=\"no-referrer\"><br>Give your agent CAD superpowers.<br><br>Language: Python<br>Stars: 20317<br>Forks: 2000",
+      "contentSnippet": "Give your agent CAD superpowers.\nLanguage: Python\nStars: 20317\nForks: 2000",
+      "creator": "earthtojake",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 180157<br>Forks: 34109",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 180157\nForks: 34109",
+      "creator": "flutter",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/87a5a972f98e16a3e9e2dccaa27005e1b14dbe650bb28807e0156799a5974844/NationalSecurityAgency/ghidra\" referrerpolicy=\"no-referrer\"><br>Ghidra is a software reverse engineering (SRE) framework<br><br>Language: Java<br>Stars: 87345<br>Forks: 9756",
+      "contentSnippet": "Ghidra is a software reverse engineering (SRE) framework\nLanguage: Java\nStars: 87345\nForks: 9756",
+      "creator": "NationalSecurityAgency",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    }
+  ],
+  "lastUpdated": "2026-10-14T21:24:31.870Z"
+}

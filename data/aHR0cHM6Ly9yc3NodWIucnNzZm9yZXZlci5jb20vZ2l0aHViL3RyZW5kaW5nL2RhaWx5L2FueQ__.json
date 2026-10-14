@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 239005<br>Forks: 59473",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 239005\nForks: 59473",
+      "creator": "morluto",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 66002<br>Forks: 7286",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 66002\nForks: 7286",
+      "creator": "debpalash",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/06841fab8c3a5ab3c1c72e44a9738ada74b160209032097dda6d6524ca0321eb/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 29015<br>Forks: 2039",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 29015\nForks: 2039",
+      "creator": "mksglu",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "nvm-sh/nvm",
+      "link": "https://github.com/nvm-sh/nvm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/612230/53a0c44a-1f6e-4f8d-918f-89762fafe369\" referrerpolicy=\"no-referrer\"><br>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.<br><br>Language: Shell<br>Stars: 95436<br>Forks: 10515",
+      "contentSnippet": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\nLanguage: Shell\nStars: 95436\nForks: 10515",
+      "creator": "nvm-sh",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4a228273dca12ff375f35dd6683b2f2c75f7d7cf2a3c734fe039604b7d460f9f/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 49234<br>Forks: 4416",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 49234\nForks: 4416",
+      "creator": "K-Dense-AI",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c62f92ac87b77868ffc935e9da367fe7f910dd232fa2526f66b66782efa5904c/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 52411<br>Forks: 4770",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 52411\nForks: 4770",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "ifixai-ai/iFixAi",
+      "link": "https://github.com/ifixai-ai/iFixAi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1222527844/6b39639c-1e2f-4765-b8b2-1b5fc6a93e4f\" referrerpolicy=\"no-referrer\"><br>Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.<br><br>Language: Python<br>Stars: 27258<br>Forks: 1501",
+      "contentSnippet": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.\nLanguage: Python\nStars: 27258\nForks: 1501",
+      "creator": "ifixai-ai",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "vxcontrol/pentagi",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/913030762/c8502908-380f-4897-aaba-87cfa16d67b4\" referrerpolicy=\"no-referrer\"><br>Fully autonomous AI Agents system capable of performing complex penetration testing tasks<br><br>Language: Go<br>Stars: 29284<br>Forks: 4400",
+      "contentSnippet": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks\nLanguage: Go\nStars: 29284\nForks: 4400",
+      "creator": "vxcontrol",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "rust-lang/rust",
+      "link": "https://github.com/rust-lang/rust",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d2a635e777d0d3df0f468d19f6d8e9e45741409dad878380b6508702e7ebe7bd/rust-lang/rust\" referrerpolicy=\"no-referrer\"><br>Empowering everyone to build reliable and efficient software.<br><br>Language: Rust<br>Stars: 119959<br>Forks: 18699",
+      "contentSnippet": "Empowering everyone to build reliable and efficient software.\nLanguage: Rust\nStars: 119959\nForks: 18699",
+      "creator": "rust-lang",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "xtool-org/xtool",
+      "link": "https://github.com/xtool-org/xtool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0d7c8debaa4c1de0fb4761b72c853468801d43c3d11cfae0d50a23a411724c5c/xtool-org/xtool\" referrerpolicy=\"no-referrer\"><br>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.<br><br>Language: Swift<br>Stars: 10634<br>Forks: 468",
+      "contentSnippet": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.\nLanguage: Swift\nStars: 10634\nForks: 468",
+      "creator": "xtool-org",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "ntdevlabs/tiny11builder",
+      "link": "https://github.com/ntdevlabs/tiny11builder",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/92bc430761e8a19a9153b90b62b8e0a25d7083f3146ec05dadfce13e670e8acb/ntdevlabs/tiny11builder\" referrerpolicy=\"no-referrer\"><br>WinUI app for building smaller, customized Windows 11 images.<br><br>Language: C#<br>Stars: 20172<br>Forks: 1552",
+      "contentSnippet": "WinUI app for building smaller, customized Windows 11 images.\nLanguage: C#\nStars: 20172\nForks: 1552",
+      "creator": "ntdevlabs",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/87a5a972f98e16a3e9e2dccaa27005e1b14dbe650bb28807e0156799a5974844/NationalSecurityAgency/ghidra\" referrerpolicy=\"no-referrer\"><br>Ghidra is a software reverse engineering (SRE) framework<br><br>Language: Java<br>Stars: 87345<br>Forks: 9756",
+      "contentSnippet": "Ghidra is a software reverse engineering (SRE) framework\nLanguage: Java\nStars: 87345\nForks: 9756",
+      "creator": "NationalSecurityAgency",
+      "summary": "无法生成摘要。AI 接口调用失败。"
+    }
+  ],
+  "lastUpdated": "2026-10-14T21:24:22.711Z"
+}
